@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^4.6.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
